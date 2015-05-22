@@ -60,6 +60,7 @@ Table of Contents
 
 ## Tools for teams & Collaboration
 
+  * http://attentiv.com/ - Collaboration and decision-making platform. Free for small groups, same feature set as paid.
   * http://appear.in/ - One click video conversations, for free
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
   * https://slack.com/ - Free for unlimited users with some feature limitations
